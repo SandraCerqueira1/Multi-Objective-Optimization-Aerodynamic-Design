@@ -1,6 +1,6 @@
 # Multi-Objective Optimization: Aerodynamic Design (Group 8)
 
-Este repositório contém o segundo trabalho prático da unidade curricular de **Métodos e Algoritmos para Otimização Multiobjetivo** (MAOM), lecionada pelo Professor Lino Costa no Mestrado em Engenharia e Ciência de Dados da Universidade do Minho (2025/2026).
+Este repositório contém o segundo trabalho prático da unidade curricular de **Métodos e Algoritmos para Otimização Multiobjetivo** (MAOM), supervisionado pelo Professor Lino Costa no Mestrado em Engenharia e Ciência de Dados da Universidade do Minho (2025/2026).
 
 ## 🏆 Resultados e Avaliação
 * **Nota Final:** 19 valores.
